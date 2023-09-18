@@ -1,8 +1,8 @@
 {
   "intro": "Rishideep Chatterjee",
-  "picture": "https://i.imgur.com/Zn0c6Ch",
+  "picture": "https://imgur.com/Zn0c6Ch.png",
   "about": "Hello! My name is Rishideep Chatterjee and I'm Senior Year engineering student, majoring in Computer Science. My fascination with software systems was sparked during my early adolescent years, when I attempted to build an application that could switch users across multiple devices. Little did I know that this digital venture would become my gateway to comprehending the intricate dance of computers.\n\nZooming into the present, I find myself basking in the fortunate glow of experiences gained from steering the technical wheel of a project under the Indian Space Research Organization (ISRO), Govt. of India, and spearheading the upliftment of a community of over 1400 developers. In the present epoch, my relentless pursuit revolves building and maintaining RoboTutor, winner of the $15M Global Learning XPRIZE competition, an open-source Android tablet application that enables children ages 7-10 with little or noaccess to schools to learn basic reading, writing, and arithmetic without adult assistance.\n\n\nnHere are some of the technologies that I've been working with in recent times:\n\nPython, Java, SQL, FastAPI, Flask, Scikit-learn & BERT.",
-  "tagline": ["I train models for you,", "for the collective 'us'", "& for the entirety of humankind."],
+  "tagline": ["I train models for you, for the collective 'us' & for the entirety of humankind."],
   "email": "rishi1a2@gmail.com",
   "experience": [
     {

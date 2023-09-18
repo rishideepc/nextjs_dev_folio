@@ -3,12 +3,12 @@
 
 :root {
   font-family: "JetBrains Mono";
-  --primary-font-color: white;
+  --primary-font-color: rgb(39, 39, 39);
   --primary-font-color-darker: #a0a0a0;
   --secondary-font-color: #086afd;
-  --primary-color: #1d1d1d;
+  --primary-color: #ffffff;
   --primary-color-light-shade: #222222;
-  --secondary-color: #b4b41c;
+  --secondary-color: #ff7300;
 }
 
 body {
