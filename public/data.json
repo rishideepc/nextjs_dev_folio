@@ -1,57 +1,46 @@
 {
   "intro": "Rishideep Chatterjee",
-  "picture": "https://i.imgur.com/4UzPCGg.png",
-  "about": "Hello, my name is Shourya Shikhar Ghosh. I'm a final yr. CS Engineering student. Web, App & Backend Developer, Open Source Contributor and a Linux Enthusiast. Few technologies I've been working with recently: TypeScript, NextJS, Supabase, FastAPI & Flutter.",
-  "tagline": ["I build stuff for you,", "for the web,", "for the world."],
-  "email": "danger.ahead@protonmail.com",
+  "picture": "https://imgur.com/Zn0c6Ch",
+  "about": "Hello! My name is Rishideep Chatterjee and I'm Senior Year engineering student, majoring in Computer Science. My fascination with software systems was sparked during my early adolescent years, when I attempted to build an application that could switch users across multiple devices. Little did I know that this digital venture would become my gateway to comprehending the intricate dance of computers.\n\nZooming into the present, I find myself basking in the fortunate glow of experiences gained from steering the technical wheel of a project under the Indian Space Research Organization (ISRO), Govt. of India, and spearheading the upliftment of a community of over 1400 developers. In the present epoch, my relentless pursuit revolves building and maintaining RoboTutor, winner of the $15M Global Learning XPRIZE competition, an open-source Android tablet application that enables children ages 7-10 with little or noaccess to schools to learn basic reading, writing, and arithmetic without adult assistance.\n\n\nnHere are some of the technologies that I've been working with in recent times:\n\nPython, Java, SQL, FastAPI, Flask, Scikit-learn & BERT.",
+  "tagline": ["I train models for you,", "for the collective 'us'", "& for the entirety of humankind."],
+  "email": "rishi1a2@gmail.com",
   "experience": [
     {
-      "title": "ML Engineer Intern",
-      "company": "Microbase Infotech Pvt. Ltd.",
-      "company_url": "https://www.microbaseinfotech.com/",
-      "duration": "July 2023 - Present"
+      "title": "Research Intern, RoboTutor Team",
+      "company": "Carnegie Mellon University",
+      "company_url": "https://www.cmu.edu/",
+      "duration": "Feb 2023 - Present"
     },
     {
-      "title": "SWE Intern",
-      "company": "Buzzli.ai",
-      "company_url": "https://buzzli.in",
-      "duration": "June 2023 - Present"
-    },
-    {
-      "title": "SDE Intern",
-      "company": "Ekko",
-      "company_url": "https://ekko.network/",
-      "duration": "May 2022 - February 2023"
+      "title": "Research Intern - NLP & Data Mining",
+      "company": "Jadavpur University",
+      "company_url": "https://jadavpuruniversity.in/",
+      "duration": "July 2022 - August 2023"
     }
   ],
   "additionalExperience": {
-    "title": "Leadership & Community Involvement",
+    "title": "Leadership & Community Engagement",
     "experience": [
       {
-        "title": "Web & App Lead",
-        "company": "GDSC RCCIIT",
+        "title": "Google DSC President & Lead",
+        "company": "Google Developers",
         "company_url": "https://gdsc-rcciit-web.web.app/",
         "duration": "August 2022 - May 2023"
       }
     ]
   },
-  "githubUserID": "danger-ahead",
+  "githubUserID": "rishideepc",
   "repos": [
-    "flutter_dev_folio",
-    "flutter_dictionary",
-    "simple_chips_input",
-    "react-scroll-deck",
-    "nextjs_dev_folio",
-    "regalia-2022-backend",
-    "techtrix22-backend",
-    "roBOT"
+    "Timeline-Generator",
+    "flbp-descriptor-texture-recognition",
+    "Gesture_App",
+    "stacko-ncopy_extension",
+    "nextjs_dev_folio"
   ],
   "socials": {
-    "linkedin": "https://linkedin.com/in/shourya-shikhar",
-    "github": "https://github.com/danger-ahead",
-    "stackoverflow": "https://stackoverflow.com/users/10951873/shourya-shikhar",
-    "twitter": "https://twitter.com/___shourya___",
-    "instagram": "https://instagram.com/definitelynotshourya"
+    "linkedin": "https://linkedin.com/in/rishideepchatterjee/",
+    "github": "https://github.com/rishideepc",
+    "instagram": "https://instagram.com/rishideep117"
   },
-  "resume": "https://www.overleaf.com/read/qcrdxwkkrjns"
+  "resume": "https://drive.google.com/file/d/1NZbsKd_CMspaWk-MfGQ9tisvdf90rxwN/view?usp=sharing"
 }
