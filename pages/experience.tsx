@@ -153,11 +153,11 @@ export default function Experience({
       <Head>
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-RR063VPDJ6"></script>
         <script>
-            window.dataLayer = window.dataLayer || [];
+            {window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
 
-            gtag('config', 'G-RR063VPDJ6');
+            gtag('config', 'G-RR063VPDJ6');}
         </script>
         <title>{`${data.intro.split(" ")[0]}'s Experience`}</title>
         <meta

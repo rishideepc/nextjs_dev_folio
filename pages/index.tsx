@@ -53,11 +53,11 @@ export default function Home() {
       <Head key="home-page">
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-RR063VPDJ6"></script>
         <script>
-            window.dataLayer = window.dataLayer || [];
+            {window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
 
-            gtag('config', 'G-RR063VPDJ6');
+            gtag('config', 'G-RR063VPDJ6');}
         </script>
 
         <title>{`Meet ${data.intro.split(" ")[0]}`}</title>

@@ -26,11 +26,11 @@ export default function About({
       <Head>
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-RR063VPDJ6"></script>
         <script>
-            window.dataLayer = window.dataLayer || [];
+            {window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
 
-            gtag('config', 'G-RR063VPDJ6');
+            gtag('config', 'G-RR063VPDJ6');}
         </script>
         <title>{`About ${data.intro.split(" ")[0]}`}</title>
         <meta name="description" content={`${data.about.substring(0, 160)}`} />
